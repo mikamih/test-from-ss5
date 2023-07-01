@@ -12,7 +12,7 @@ for i in range(3, 13, 1):
     print (i)
 
 n= int(input('input a number: '))
-for i in range(n,n+1,1):
+for i in range(0,n+1,1):
     print(i)
 
 a= int(input('number: '))
